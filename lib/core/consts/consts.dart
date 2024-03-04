@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+
 abstract class AppConst {
   static const String splashIcon = 'assets/icons/sp_icon.svg';
   static const String avatarImage =
